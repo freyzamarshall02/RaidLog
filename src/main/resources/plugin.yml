@@ -1,0 +1,4 @@
+name: RaidLog
+version: 1.0
+main: dev.raidlog.RaidLog
+api-version: "26.2"
